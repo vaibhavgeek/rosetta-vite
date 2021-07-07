@@ -9,13 +9,13 @@
 <p align="center">
 Go SDK to create and interact with Rosetta API implementations for VITE
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://circleci.com/gh/coinbase/rosetta-sdk-go/tree/master"><img src="https://circleci.com/gh/coinbase/rosetta-sdk-go/tree/master.svg?style=shield" /></a>
   <a href="https://coveralls.io/github/coinbase/rosetta-sdk-go"><img src="https://coveralls.io/repos/github/coinbase/rosetta-sdk-go/badge.svg" /></a>
   <a href="https://goreportcard.com/report/github.com/coinbase/rosetta-sdk-go"><img src="https://goreportcard.com/badge/github.com/coinbase/rosetta-sdk-go" /></a>
   <a href="https://github.com/coinbase/rosetta-sdk-go/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/coinbase/rosetta-sdk-go.svg" /></a>
   <a href="https://pkg.go.dev/github.com/coinbase/rosetta-sdk-go?tab=overview"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=shield" /></a>
-</p>
+</p> -->
 
 ## Overview
 The `rosetta-vite` provides a collection of packages used for interaction
@@ -29,4 +29,3 @@ Before diving into the SDK, we recommend taking a look at the Rosetta API Docs:
 * [Data API](https://www.rosetta-api.org/docs/data_api_introduction.html)
 * [Construction API](https://www.rosetta-api.org/docs/construction_api_introduction.html)
 
-© 2020 Coinbase
